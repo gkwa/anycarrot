@@ -291,3 +291,4 @@ attic="!f() { \
 	required = true
 [init]
 	defaultBranch = master
+
